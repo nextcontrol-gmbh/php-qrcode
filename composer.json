@@ -28,7 +28,7 @@
 		"ext-gd": "*",
 		"ext-json": "*",
 		"ext-mbstring": "*",
-		"chillerlan/php-settings-container": "^1.2"
+		"chillerlan/php-settings-container": "dev-master"
 	},
 	"require-dev": {
 		"phpunit/phpunit": "^8.4"

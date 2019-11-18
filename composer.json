@@ -8,6 +8,12 @@
 	"keywords": [
 		"QR code", "qrcode", "qr", "qrcode-generator", "phpqrcode"
 	],
+	"repositories": [
+	    {
+	      "type": "git",
+	      "url": "https://github.com/nextcontrol-gmbh/php-settings-container.git"
+	    }
+	],
 	"authors": [
 		{
 			"name": "Kazuhiko Arase",

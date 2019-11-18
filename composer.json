@@ -1,5 +1,5 @@
 {
-	"name": "chillerlan/php-qrcode",
+	"name": "nextcontrol/php-qrcode",
 	"description": "A QR code generator. PHP 7.2+",
 	"homepage": "https://github.com/chillerlan/php-qrcode",
 	"license": "MIT",
@@ -28,13 +28,10 @@
 		"ext-gd": "*",
 		"ext-json": "*",
 		"ext-mbstring": "*",
-		"chillerlan/php-settings-container": "dev-master"
+		"nextcontrol/php-settings-container": "dev-master"
 	},
 	"require-dev": {
 		"phpunit/phpunit": "^8.4"
-	},
-	"suggest": {
-		"chillerlan/php-authenticator": "Yet another Google authenticator! Also creates URIs for mobile apps."
 	},
 	"autoload": {
 		"psr-4": {
